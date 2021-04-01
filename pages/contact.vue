@@ -28,8 +28,7 @@
               <div class="content">
                 <p>
                   <strong>
-                    Edit this page in<code>/pages/contact.vue</code>to fit your
-                    needs.
+                    This web still in development. go to tegvr.com in the meantime.
                   </strong>
                 </p>
                 <p>

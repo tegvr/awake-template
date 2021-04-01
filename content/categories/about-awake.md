@@ -1,5 +1,5 @@
 ---
 name: About Awake
-image: /Untitled-2.svg
+image: /tegar.png
 ---
 All about 
