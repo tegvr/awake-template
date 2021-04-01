@@ -12,7 +12,7 @@ export default {
   siteName: 'tegar.xyz',
   tagline: 'This site is still in development..',
   featureImage: '/uploads/home-hero.jpg',
-  logo: 'tegar.png', // 'logo-component', // or '/logo.svg' for regular image
+  logo: '/tegar.png', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
     on: true,
     id: process.env.GOOGLE_ANALYTICS_ID
@@ -67,14 +67,14 @@ export default {
   // Newsletter Subscribe
   newsletter: {
     on: true,
-    heading: 'Check my linkedin',
+    heading: 'Subscribe to Our Newsletter',
     btnText: 'Subscribe',
     // Can be the form action on a mail chimp form, a hubspot form,
     // or any other url you want to post the form data to
     mailchimp: {
       on: true,
       formAction:
-        'https://www.linkedin.com/in/tegvr/'
+        'https://tegvr.substack.com'
     },
     custom: {
       on: false,
