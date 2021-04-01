@@ -8,25 +8,19 @@
     <main-section theme="sidebar-right">
       <template v-slot:default>
         <div class="content">
-          <h3>Fake Heading</h3>
+          <h3>Tegar.xyz</h3>
           <p>
             <strong>
-              Edit this page in<code>/pages/about.vue</code>to fit your needs.
+              About XYZ things.
             </strong>
           </p>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci
-            eligendi impedit inventore ipsa laboriosam libero magnam modi odio,
-            sunt temporibus. Distinctio doloremque eum magni nostrum quasi
-            ratione rem repudiandae sit!
+            "Tegar is a word or phrase in Bahasa (Indonesia) which means a character that is strong stance, resilient, and steadfast. Usually use when the circumstances is hard, so people supposed to be "tegar" at this kind of moment. Also can be interpreted as someone that dutifully firm and unwavering. "
           </p>
 
-          <h3>Another Fake Heading</h3>
+          <h3>This website is still in development. </h3>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci
-            eligendi impedit inventore ipsa laboriosam libero magnam modi odio,
-            sunt temporibus. Distinctio doloremque eum magni nostrum quasi
-            ratione rem repudiandae sit!
+            Head to http://tegvr.com in the meantime.
           </p>
           <quote-card />
           <h3>Still More Fake Content</h3>
